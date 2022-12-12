@@ -1,3 +1,4 @@
+//Table Program
 class Table
 {
 	public static void main(String args[])
